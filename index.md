@@ -4,14 +4,13 @@
 
 ### Best Works 
 
-[<img src="images/books.jpg?raw=true" alt ="FreshBooks"/>](/freshbooks)
+[<img src="images/books.jpg?raw=true"/>](/freshbooks)
 
 ---
-[<img src="images/portfolio.png?raw=true" alt="Portfolio"/>](/portfolio)
+[<img src="images/portfolio.png?raw=true"/>](/portfolio)
 
 ---
-[![Sleep E Koala] ("images/koala.jpg)(/sleepekoala)]
-
+[<img src="images/koala.jpg?raw=true"/>](/sleepekoala)
 
 ---
 
