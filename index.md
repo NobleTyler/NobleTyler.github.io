@@ -1,8 +1,9 @@
 ## Portfolio
 
 ---
+[Resume](https://docs.google.com/document/d/1m64IRDYZM6nnPrU7hUEaNdgthF4dw7omUK2XaQ2jUKE/edit?usp=sharing) {style=text-align:center}
 
-### Category Name 1 
+### Best Works 
 
 [FreshBooks](/freshbooks)
 <img src="images/books.jpg?raw=true"/>
@@ -12,27 +13,15 @@
 <img src="images/portfolio.png?raw=true"/>
 
 ---
-[](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[SleepEKoala](/sleepekoala)
+<img src="images/koala.jpg?raw=true"/>
 
 ---
 
 
-### Category Name 2
+### More Work
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
+- [Eyes free error correction for Touch Screen Devices](/eyesFree)
+- [SwipeOrBut](/swiporbut)
 
 
-
-
----
