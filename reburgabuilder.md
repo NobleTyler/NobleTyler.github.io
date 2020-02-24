@@ -8,4 +8,4 @@ It uses Firebase as well to hold JSON data for persistance purposes.
 
 <img src="images/burger.jpg?raw=true"/>
 
-For more details see [ReburgABuilder](https://github.com/NobleTyler/ReBurga
+For more details see [ReburgABuilder](https://github.com/NobleTyler/ReBurgabuilder)
