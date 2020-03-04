@@ -6,6 +6,6 @@ The project itself gave users a stack of cards they they could button press or s
 * Devloping and designing my own new features. These were later tested as a part of my research. 
 * Presentation skills, in order to present my research infront of other proffesionals. 
 
-<img src="images/research.jpg?raw=true"/>
+<img src="images/swiporbut.jpg?raw=true"/>
 
 For more details see [SwipOrBut Repo](https://github.com/NobleTyler/SwipOrBut).
