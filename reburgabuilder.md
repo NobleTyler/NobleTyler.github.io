@@ -7,4 +7,5 @@ It uses Firebase as well to hold JSON data for persistance purposes.
 * Learning about concepts such as Lazy Loading and others has made me rethink what goes into a good frontend. 
 
 <img src="images/burger.jpg?raw=true"/>
-For more details see [ReburgABuilder](https://github.com/NobleTyler/ReBurgabuilder)
+[Check it out!](https://react-burger-68669.firebaseapp.com/)
+For code see [ReburgABuilder](https://github.com/NobleTyler/ReBurgabuilder)
