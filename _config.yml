@@ -3,13 +3,13 @@ logo: "/images/alsome.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Pragmatic Solutions  • Fun Guy
   <br><br>
-  <a href="https://www.twitter.com/_NobleTyler">Follow me on Twitter</a> 
-  <br><br>
-  <a href="https://www.linkedin.com/in/nobletyler/">View My LinkedIn Profile</a> 
-  <br><br>
   <a href="/Resume/TylerNobleResume.pdf">See my resume</a>
   <br><br>
   <a href="mailto:tynobledev@gmail.com?Subject=Nice Portfolio" target="_top">Email me</a>
+  <br><br>
+  <a href="https://www.linkedin.com/in/nobletyler/">View My LinkedIn Profile</a> 
+  <br><br>
+  <a href="https://www.twitter.com/_NobleTyler">Follow me on Twitter</a> 
   <br><br>
   <a href="https://calendly.com/tynobledev/networking">Grab a coffee with me</a>
 theme: jekyll-theme-minimal
