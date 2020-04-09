@@ -6,6 +6,6 @@ interface.
 * Being managed on a consistent basis allowed me to talk about my work frequently and gain insight into how to work effectively.
 * Users will not always act how you expect and you have to be prepared for that. 
 
-<img src="/research.jpg?raw=true"/>
+<img src="research.jpg?raw=true"/>
 
 For more details see [ResearchApp](https://github.com/NobleTyler/EECS4080).

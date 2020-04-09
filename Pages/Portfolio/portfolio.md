@@ -7,7 +7,7 @@ after the original host of the Mongo cluster shutdown.
 * Don't make a full-website when you could just make a static page.
 * Cover up security vulnerabilities.
 
-<img src="images/portfolio.png?raw=true"/>
+<img src="portfolio.png?raw=true"/>
 
 
 For more details see [portfolio](https://github.com/NobleTyler/OldPortfolio).
