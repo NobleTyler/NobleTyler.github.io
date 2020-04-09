@@ -6,6 +6,6 @@ It uses Firebase as well to hold JSON data for persistance purposes.
 * Debugging a front end was also interesting as I had not yet used Chrome's developer tools in such a way.
 * Learning about concepts such as Lazy Loading and others has made me rethink what goes into a good frontend. 
 
-<img src="images/burger.jpg?raw=true"/>
+<img src="/burger.jpg?raw=true"/>
 [Check it out!](https://react-burger-68669.firebaseapp.com/)
 For code see [ReburgABuilder](https://github.com/NobleTyler/ReBurgabuilder)

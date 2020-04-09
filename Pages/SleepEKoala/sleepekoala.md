@@ -6,6 +6,6 @@ was also able to implement a machine learning model in order to predict mood aft
 * Dealing with group dynamics and working alongside Machine Learning specialists was an excellent learning experience
 * Using Android's timer API really simplified a lot of the code
 
-<img src="images/koala.jpg?raw=true"/>
+<img src="/koala.jpg?raw=true"/>
 
 For more details see [Sleep E Koala](https://github.com/NobleTyler/SleepEKoala).

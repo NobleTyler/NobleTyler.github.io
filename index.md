@@ -4,13 +4,13 @@
 
 ### Best Works 
 
-[<img src="images/books.jpg?raw=true"/>](/Pages/freshbooks)
+[<img src="/Pages/FreshBooks/books.jpg?raw=true"/>](/Pages/freshbooks)
 
 ---
-[<img src="images/portfolio.png?raw=true"/>](/Pages/portfolio)
+[<img src="/Pages/Portfolio/portfolio.png?raw=true"/>](/Pages/portfolio)
 
 ---
-[<img src="images/burger.jpg?raw=true"/>](/Pages/reburgabuilder)
+[<img src="/Pages/ReburgABuilder/burger.jpg?raw=true"/>](/Pages/reburgabuilder)
 
 ---
 
