@@ -1,5 +1,5 @@
-**ReburgABuilder:** This React App is used to build a burger and guide users through a checkout system. It mimicks a backend by using the Axios Package in NPM.
-It uses Firebase as well to hold JSON data for persistance purposes.
+**ReburgABuilder:** This React App is used to build a burger and guide users through a checkout system. It mimics a backend by using the Axios Package in NPM.
+It uses Firebase as well to hold JSON data for persistence purposes.
 
 ### What I learned from this project
 * It was my first time using React, so I leared a lot about stateful/less components as well as ES6.

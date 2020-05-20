@@ -1,4 +1,4 @@
-**Fresh Books:** This was a website with a complete front-end and backend. It was done in a group
+**Fresh Books:** This was a bookstore with a complete front-end and backend. It was done in a group
 setting and used HTML/CSS/JS/AJAX on the front-end and Java/ApacheTomcat/SQL on the backend. 
 
 ### What I learned from this project
